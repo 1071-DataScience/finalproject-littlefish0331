@@ -1,9 +1,8 @@
 # < Title of your final project >
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
+* < 林聖翔Jack, 106356022 >
+* < 余佑駿Steve, 106354005 >
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
