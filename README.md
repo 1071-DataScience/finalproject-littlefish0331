@@ -1,8 +1,8 @@
-# < Title of your final project >
+# Cut Down the Cost of Uncertainty travel order
 
 ### Groups
-* < 林聖翔Jack, 106356022 >
-* < 余佑駿Steve, 106354005 >
+* < 林聖翔 Jack, 106356022 >
+* < 余佑駿 Steve, 106354005 >
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
