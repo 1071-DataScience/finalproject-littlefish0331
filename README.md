@@ -29,20 +29,20 @@ For the NDA of contest, we cannot offer the data. However, if you are really int
 
 * Input format
     * orderId with features, including the following
-| feature | detail |
-|---|---|
-| sub_line | route of traveling |
-| area | section of sub_line |
-| source_1 | sales channel |
-| source_2 | sales platform |
-| unit | travel agency |
-| people_amount | people amount in travel order |
-| group_amount | people amount in group |
-| group_days | days of group |
-| group_price | price of group |
-| group\_order\_heat | Popularity of group |
-| wait_duration | differtime between order and begin |
-
+ feature | detail 
+ ---|---
+ sub_line | route of traveling 
+ area | section of sub_line 
+ source_1 | sales channel 
+ source_2 | sales platform 
+ unit | travel agency 
+ people_amount | people amount in travel order 
+ group_amount | people amount in group 
+ group_days | days of group 
+ group_price | price of group 
+ group\_order\_heat | Popularity of group 
+ wait_duration | differtime between order and begin 
+ 
 
 * Any preprocessing?
   * Handle missing data
