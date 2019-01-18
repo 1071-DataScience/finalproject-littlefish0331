@@ -1,8 +1,8 @@
 # Cut Down the Cost due to Uncertainty of travel order
 
 ### Groups
-* < Dept. of MIS - Jack（林聖翔）, 106356022 >
-* < Dept. of Statistics - Steve（余佑駿）, 106354005 >
+* Dept. of MIS - Jack（林聖翔）, 106356022
+* Dept. of Statistics - Steve（余佑駿）, 106354005
 
 ### Goal
 
