@@ -29,6 +29,7 @@ For the NDA of contest, we cannot offer the data. However, if you are really int
 
 * Input format
     * orderId with features, including the following
+   
  feature | detail 
  ---|---
  sub_line | route of traveling 
@@ -40,7 +41,7 @@ For the NDA of contest, we cannot offer the data. However, if you are really int
  group_amount | people amount in group 
  group_days | days of group 
  group_price | price of group 
- group\_order\_heat | Popularity of group 
+ group_order_heat | Popularity of group 
  wait_duration | differtime between order and begin 
  
 
