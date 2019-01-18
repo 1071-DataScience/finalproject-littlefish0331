@@ -30,19 +30,32 @@ For the NDA of contest, we cannot offer the data. However, if you are really int
 * Input format
     * orderId with features, including the following
    
- feature | detail 
- ---|---
- sub_line | route of traveling 
- area | section of sub_line 
- source_1 | sales channel 
- source_2 | sales platform 
- unit | travel agency 
- people_amount | people amount in travel order 
- group_amount | people amount in group 
- group_days | days of group 
- group_price | price of group 
- group_order_heat | Popularity of group 
- wait_duration | differtime between order and begin 
+feature | detail 
+---|---
+sub_line | route of traveling 
+area | section of sub_line 
+source_1 | sales channel 
+source_2 | sales platform 
+unit | travel agency 
+people_amount | people amount in travel order 
+group_amount | people amount in group 
+group_days | days of group 
+group_price | price of group 
+group_order_heat | Popularity of group 
+wait_duration | differtime between order and begin 
+order_date_weekday | (will do one-hot encoding) 
+order_date_weekend | (binary) 
+begin_date_weekday | (will do one-hot encoding) 
+begin_date_weekend | (binary) 
+sub_line_heat | Popularity of sub_line 
+area_heat | Popularity of area 
+go_n | flights for arriving 
+back_n | flights for back 
+goback_n | how many flight  
+group_site_sum | total spots  in group 
+group_site_ave | average spots in group 
+unit_group_count | Familiarity of processing group 
+
  
 
 * Any preprocessing?
